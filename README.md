@@ -5,7 +5,7 @@ I'm a second year bachelor of engineering student who has loved computers and ha
 # Projects
 A list of projects I'm most proud of.
 
-## Colour Theory
+### Colour Theory
 https://github.com/DefinitelyNotWence/Colour-Theory <br>
 A little 2D pixel art platformer where you play as a slime that changes colours to adapt to the varying conditions of each level. <br>
 <br>
