@@ -1,5 +1,5 @@
 # About me
-Currently learning: Java, HTML, CSS <br>
+Currently learning: Java, JavaScript, HTML, CSS <br>
 
 # Youtube
 https://www.youtube.com/@crispodispo <br>
